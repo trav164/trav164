@@ -6,7 +6,7 @@ Full stack web developer
 
 *   🌍  I'm based in England
 *   🖥️  See my portfolio at [lewistravis.co.uk](http://lewistravis.co.uk)
-*   ✉️  You can contact me at [travis164@gmail.com](mailto:travis164@gmail.com)
+*   ✉️  You can contact me at [travis164@gmail.com](mailto:lewis@lewistravis.co.uk)
 *   🧠  I'm learning Sveltekit & TailwindCSS
 
 ### Skills 
